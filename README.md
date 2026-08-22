@@ -7,6 +7,7 @@ Run WorldCup.cpp
 Reads WorldCupFinals.csv, counts the wins for each team, and saves the results in Winners.csv.
 Run WorldMap.ipynb
 Uses Python to read Winners.csv and visualize the World Cup victories on a world map.
+
 Files
 • WorldCupFinals.csv — World Cup final data
 • WorldCup.cpp — C++ data processing 
