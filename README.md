@@ -1,5 +1,6 @@
 # WordCupFinals  C++ & Python Visualization
 
+
 This project uses FIFA World Cup final data from Wikipedia to find which teams have won the World Cup the most times.
 WorldCupFinals.csv contains the year, winner, score, runner-up, and venue of each final.
 Workflow
@@ -8,7 +9,7 @@ Reads WorldCupFinals.csv, counts the wins for each team, and saves the results i
 Run WorldMap.ipynb
 Uses Python to read Winners.csv and visualize the World Cup victories on a world map.
 
-Files
+*Files*
 
 • WorldCupFinals.csv — World Cup final data
 
