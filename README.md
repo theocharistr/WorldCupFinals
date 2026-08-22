@@ -9,9 +9,9 @@ Run WorldMap.ipynb
 Uses Python to read Winners.csv and visualize the World Cup victories on a world map.
 Files
 • WorldCupFinals.csv — World Cup final data
-• WorldCup.cpp — C++ data processing
-• Winners.csv — World Cup wins by team
-• WorldMap.ipynb — Python visualization
+• WorldCup.cpp — C++ data processing 
+• Winners.csv — World Cup wins by team 
+• WorldMap.ipynb — Python visualization 
 
 Input:  
 <img width="1090" height="1550" alt="image" src="https://github.com/user-attachments/assets/4ea78ff0-5e9e-4a57-b21e-5edb40ea2d75" />
